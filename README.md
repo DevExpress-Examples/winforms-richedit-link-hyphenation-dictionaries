@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-# Word Processing Document API - Link Hyphenation Dictionaries
+# How to Link Hyphenation Dictionaries
 
 The following code sample shows how to enable the word hyphenation in the Rich Text Editor. To accomplish the task, you must first add a hyphenation dictionary to the [RichEditControl.HyphenationDictionaries][3] collection. Once you link hyphenation dictionaries, you can enable or suppress automatic hyphenation in code or within the UI.
 
