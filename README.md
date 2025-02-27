@@ -6,8 +6,7 @@
 <!-- default badges end -->
 # How to Link Hyphenation Dictionaries
 
-The following code sample shows how to enable the word hyphenation in the Rich Text Editor. To accomplish the task, you must first add a hyphenation dictionary to the 
-[RichEditControl.HyphenationDictionaries][3] collection. Once you link hyphenation dictionaries, you can enable or suppress automatic hyphenation in code or within the UI.
+The following code sample shows how to enable the word hyphenation in the Rich Text Editor. To accomplish the task, you must first add a hyphenation dictionary to the [RichEditControl.HyphenationDictionaries][3] collection. Once you link hyphenation dictionaries, you can enable or suppress automatic hyphenation in code or within the UI.
 
 > [!note]
 > Please note that DevExpress does not offer hyphenation dictionaries. In this example, we utilize an American hyphenation dictionary from this site: [LibreOffice.org - English Dictionaries][1]. You can download the dictionary source (including the license agreement) from [this link][2]. If you wish to use this dictionary in your application, please ensure the relevant license agreement permits it.
@@ -15,7 +14,7 @@ The following code sample shows how to enable the word hyphenation in the Rich T
 
 ## Files to Review
 
-* [Form1.cs](./CS/XtraRichEdit/Form1.cs) (VB: [Form1.vb](./VB/XtraRichEdit/Form1.vb)
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb)
 
 ## Documentation
 
