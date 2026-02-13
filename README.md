@@ -25,7 +25,7 @@ The following code sample shows how to enable the word hyphenation in the Rich T
 [2]: https://extensions.libreoffice.org/assets/downloads/41/dict-en-20210101.oxt
 [3]: https://docs.devexpress.com/WindowsForms/DevExpress.XtraRichEdit.RichEditControl.HyphenationDictionaries
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-link-hyphenation-dictionaries&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-link-hyphenation-dictionaries&~~~was_helpful=no)
 
